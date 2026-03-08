@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📕I'm Curely studying at Telkom University<br>🌐Front end website developer<br>🧑19 Years old<br>👥Staff Magang DPA HMTT<br>
+<br>📕I'm Curely studying at Telkom University<br>🌐Front end website developer<br>🧑19 Years old<br>👥Staff Dewan DPA HMTT<br>
 
 
 ## 🌐 Socials:
